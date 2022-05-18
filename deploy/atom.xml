@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
-<feed xmlns="http://www.w3.org/2005/Atom"> <title>Integrating mathematical knowledge</title> <link href=""/> <link type="application/atom+xml" rel="self" href="/atom.xml"/> <updated>Tue, 17 May 2022 23:11:30 -0400</updated> <author> <name>Alexandro Longo</name> </author> <entry> <link type="text/html" rel="alternate" href="/posts/2022-05-17.html"/> <title>2022-05-17</title> <published>2022-05-17 22:33:59</published> <updated>2022-05-17 22:33:59</updated> <author> <name>Alexandro Longo</name> <uri></uri> </author> <content type="html">&lt;!-- **** your post here (remove this line) **** --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"> <title>Integrating mathematical knowledge</title> <link href=""/> <link type="application/atom+xml" rel="self" href="/atom.xml"/> <updated>Wed, 18 May 2022 19:06:41 -0400</updated> <author> <name>Alexandro Longo</name> </author> <entry> <link type="text/html" rel="alternate" href="/posts/2022-05-17.html"/> <title>2022-05-17</title> <published>2022-05-17 22:33:59</published> <updated>2022-05-17 22:33:59</updated> <author> <name>Alexandro Longo</name> <uri></uri> </author> <content type="html">&lt;!-- **** your post here (remove this line) **** --&gt;
 
 &lt;!-- format: could be &#039;html&#039; (for raw html) or &#039;md&#039; (for markdown).  --&gt;
 
-&lt;p&gt;Hi folks, this is my first about how to study real analysis properly&lt;/p&gt;
+&lt;p&gt;this is a test post&lt;/p&gt;
 
 &lt;!--more--&gt;
 </content> </entry> </feed>
