@@ -1,5 +1,17 @@
 <?xml version="1.0"?>
-<feed xmlns="http://www.w3.org/2005/Atom"> <title>Integrating mathematical knowledge</title> <link href=""/> <link type="application/atom+xml" rel="self" href="/atom.xml"/> <updated>Wed, 18 May 2022 19:06:41 -0400</updated> <author> <name>Alexandro Longo</name> </author> <entry> <link type="text/html" rel="alternate" href="/posts/2022-05-17.html"/> <title>2022-05-17</title> <published>2022-05-17 22:33:59</published> <updated>2022-05-17 22:33:59</updated> <author> <name>Alexandro Longo</name> <uri></uri> </author> <content type="html">&lt;!-- **** your post here (remove this line) **** --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"> <title>Integrating mathematical knowledge</title> <link href=""/> <link type="application/atom+xml" rel="self" href="/atom.xml"/> <updated>Thu, 19 May 2022 07:48:13 -0400</updated> <author> <name>Alexandro Longo</name> </author> <entry> <link type="text/html" rel="alternate" href="/posts/2022-05-19.html"/> <title>2022-05-19</title> <published>2022-05-19 07:46:45</published> <updated>2022-05-19 07:46:45</updated> <author> <name>Alexandro Longo</name> <uri></uri> </author> <content type="html">&lt;!-- **** your post here (remove this line) **** --&gt;
+
+&lt;!-- format: could be &#039;html&#039; (for raw html) or &#039;md&#039; (for markdown).  --&gt;
+
+&lt;p&gt;testing !&lt;/p&gt;
+
+&lt;p&gt;This is an inline equation: $$V_{sphere} = \frac{4}{3}\pi r^3$$,&lt;br&gt;
+followed by a display style equation:&lt;/p&gt;
+
+&lt;p&gt;$$V_{sphere} = \frac{4}{3}\pi r^3$$&lt;/p&gt;
+
+&lt;!--more--&gt;
+</content> </entry><entry> <link type="text/html" rel="alternate" href="/posts/2022-05-17.html"/> <title>2022-05-17</title> <published>2022-05-17 22:33:59</published> <updated>2022-05-17 22:33:59</updated> <author> <name>Alexandro Longo</name> <uri></uri> </author> <content type="html">&lt;!-- **** your post here (remove this line) **** --&gt;
 
 &lt;!-- format: could be &#039;html&#039; (for raw html) or &#039;md&#039; (for markdown).  --&gt;
 
