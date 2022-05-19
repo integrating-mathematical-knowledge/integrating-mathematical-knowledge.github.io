@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"> <channel> <title>Integrating mathematical knowledge</title> <link></link> <atom:link href="/rss.xml" rel="self" type="application/rss+xml" /> <language>en-us</language> <pubDate>Wed, 18 May 2022 19:06:41 -0400</pubDate> <item> <title>2022-05-17</title> <link>/posts/2022-05-17.html</link> <pubDate>2022-05-17 22:33:59</pubDate> <author>Alexandro Longo</author> <guid isPermaLink="true">/posts/2022-05-17.html</guid> <category><![CDATA[ real_analysis ]]></category> <description><![CDATA[ <!-- **** your post here (remove this line) **** -->
-
-<!-- format: could be 'html' (for raw html) or 'md' (for markdown).  -->
-
-<p>this is a test post</p>
-
-<!--more-->
- ]]></description> </item> </channel> </rss>
