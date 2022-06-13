@@ -1,21 +1,15 @@
 <?xml version="1.0"?>
-<feed xmlns="http://www.w3.org/2005/Atom"> <title>Integrating mathematical knowledge</title> <link href=""/> <link type="application/atom+xml" rel="self" href="/atom.xml"/> <updated>Sat, 11 Jun 2022 23:49:18 -0400</updated> <author> <name>Alexandro Longo</name> </author> <entry> <link type="text/html" rel="alternate" href="/posts/2022-05-19.html"/> <title>2022-05-19</title> <published>2022-05-19 07:46:45</published> <updated>2022-05-19 07:46:45</updated> <author> <name>Alexandro Longo</name> <uri></uri> </author> <content type="html">&lt;!-- **** your post here (remove this line) **** --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"> <title>Integrating mathematical knowledge</title> <link href="https://integrating-mathematical-knowledge.github.io"/> <link type="application/atom+xml" rel="self" href="https://integrating-mathematical-knowledge.github.io/atom.xml"/> <updated>Sun, 12 Jun 2022 23:47:59 -0400</updated> <author> <name>Alexandro Longo</name> </author> <entry> <link type="text/html" rel="alternate" href="https://integrating-mathematical-knowledge.github.io/posts/Motivation.html"/> <title>Motivation</title> <published>2022-06-12 23:06:25</published> <updated>2022-06-12 23:06:25</updated> <author> <name>Alexandro Longo</name> <uri>https://integrating-mathematical-knowledge.github.io</uri> </author> <content type="html">&lt;p&gt;I realized that mathematics does not speak exclusively about our real world and instead &lt;strong&gt;it speaks about a universe&lt;/strong&gt;, not our one.&lt;/p&gt;
 
-&lt;!-- format: could be &#039;html&#039; (for raw html) or &#039;md&#039; (for markdown).  --&gt;
+&lt;p&gt;&lt;img src=&quot;https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Felchuqueno.com%2Fwp-content%2Fuploads%2F2020%2F03%2Fbertrandrussellftr-780x400.jpg&amp;f=1&amp;nofb=1&quot; alt=&quot;Betrand Russel&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;testing !&lt;/p&gt;
+&lt;h5&gt;As said in the book &amp;quot;Truth Through Proof A Formalist Foundation for Mathematics&amp;quot; by Alan:&lt;/h5&gt;
 
-&lt;p&gt;This is an inline equation: $$V_{sphere} = \frac{4}{3}\pi r^3$$,&lt;br&gt;
-followed by a display style equation:&lt;/p&gt;
+&lt;h5&gt;The platonistic conception of mathematics as providing knowledge of the immutable also has, for some,  &lt;em&gt;a quasi-religious attraction&lt;/em&gt;.&lt;/h5&gt;
 
-&lt;p&gt;$$V_{sphere} = \frac{4}{3}\pi r^3$$&lt;/p&gt;
+&lt;h5&gt;Betrand Russel wrote of the consolation mathematics seemed to offer him, when beset with the woes of our ephemeral and careworn world. Mathematics, wrote Russel, is [r]emote from human passions, remote even from the pitful facts of nature and a realm where &lt;em&gt;pure thought&lt;/em&gt; can dwell as in its nature home, where one, at least, of our nobler impulses can scape from the dreary exile of the actual world.&lt;/h5&gt;
 
-&lt;!--more--&gt;
-</content> </entry><entry> <link type="text/html" rel="alternate" href="/posts/2022-05-17.html"/> <title>2022-05-17</title> <published>2022-05-17 22:33:59</published> <updated>2022-05-17 22:33:59</updated> <author> <name>Alexandro Longo</name> <uri></uri> </author> <content type="html">&lt;!-- **** your post here (remove this line) **** --&gt;
+&lt;h5&gt;&amp;quot;...the greatest thing is purely mathematical thinking: this is worth much more than the application of mathematics.&amp;quot;&lt;/h5&gt;
 
-&lt;!-- format: could be &#039;html&#039; (for raw html) or &#039;md&#039; (for markdown).  --&gt;
-
-&lt;p&gt;this is a test post&lt;/p&gt;
-
-&lt;!--more--&gt;
+&lt;h6&gt;In conversation in 1854, a few months before his death, that was. In Gauss, Titan of Science by G. Waldo Dunnington, p. 303.&lt;/h6&gt;
 </content> </entry> </feed>

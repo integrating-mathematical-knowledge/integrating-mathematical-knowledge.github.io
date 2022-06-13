@@ -1,21 +1,15 @@
 <?xml version="1.0"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"> <channel> <title>Integrating mathematical knowledge</title> <link></link> <atom:link href="/rss.xml" rel="self" type="application/rss+xml" /> <language>en-us</language> <pubDate>Sat, 11 Jun 2022 23:49:18 -0400</pubDate> <item> <title>2022-05-19</title> <link>/posts/2022-05-19.html</link> <pubDate>2022-05-19 07:46:45</pubDate> <author>Alexandro Longo</author> <guid isPermaLink="true">/posts/2022-05-19.html</guid> <category><![CDATA[ bar ]]></category><category><![CDATA[ baz ]]></category> <description><![CDATA[ <!-- **** your post here (remove this line) **** -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"> <channel> <title>Integrating mathematical knowledge</title> <link>https://integrating-mathematical-knowledge.github.io</link> <atom:link href="https://integrating-mathematical-knowledge.github.io/rss.xml" rel="self" type="application/rss+xml" /> <language>en-us</language> <pubDate>Sun, 12 Jun 2022 23:47:59 -0400</pubDate> <item> <title>Motivation</title> <link>https://integrating-mathematical-knowledge.github.io/posts/Motivation.html</link> <pubDate>2022-06-12 23:06:25</pubDate> <author>Alexandro Longo</author> <guid isPermaLink="true">https://integrating-mathematical-knowledge.github.io/posts/Motivation.html</guid>  <description><![CDATA[ <p>I realized that mathematics does not speak exclusively about our real world and instead <strong>it speaks about a universe</strong>, not our one.</p>
 
-<!-- format: could be 'html' (for raw html) or 'md' (for markdown).  -->
+<p><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Felchuqueno.com%2Fwp-content%2Fuploads%2F2020%2F03%2Fbertrandrussellftr-780x400.jpg&f=1&nofb=1" alt="Betrand Russel" /></p>
 
-<p>testing !</p>
+<h5>As said in the book &quot;Truth Through Proof A Formalist Foundation for Mathematics&quot; by Alan:</h5>
 
-<p>This is an inline equation: $$V_{sphere} = \frac{4}{3}\pi r^3$$,<br>
-followed by a display style equation:</p>
+<h5>The platonistic conception of mathematics as providing knowledge of the immutable also has, for some,  <em>a quasi-religious attraction</em>.</h5>
 
-<p>$$V_{sphere} = \frac{4}{3}\pi r^3$$</p>
+<h5>Betrand Russel wrote of the consolation mathematics seemed to offer him, when beset with the woes of our ephemeral and careworn world. Mathematics, wrote Russel, is [r]emote from human passions, remote even from the pitful facts of nature and a realm where <em>pure thought</em> can dwell as in its nature home, where one, at least, of our nobler impulses can scape from the dreary exile of the actual world.</h5>
 
-<!--more-->
- ]]></description> </item><item> <title>2022-05-17</title> <link>/posts/2022-05-17.html</link> <pubDate>2022-05-17 22:33:59</pubDate> <author>Alexandro Longo</author> <guid isPermaLink="true">/posts/2022-05-17.html</guid> <category><![CDATA[ real_analysis ]]></category> <description><![CDATA[ <!-- **** your post here (remove this line) **** -->
+<h5>&quot;...the greatest thing is purely mathematical thinking: this is worth much more than the application of mathematics.&quot;</h5>
 
-<!-- format: could be 'html' (for raw html) or 'md' (for markdown).  -->
-
-<p>this is a test post</p>
-
-<!--more-->
+<h6>In conversation in 1854, a few months before his death, that was. In Gauss, Titan of Science by G. Waldo Dunnington, p. 303.</h6>
  ]]></description> </item> </channel> </rss>
